@@ -1,0 +1,74 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+body{
+  color: lightgray;
+  background-image: url("../img/space.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+
+main{
+  padding: 20px 40px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+  font-size: 4rem;
+}
+
+h2{
+  font-size: 2rem;
+  margin: 0;
+}
+
+button {
+  padding: 3px 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.nasaPic {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 25px;
+  align-items: flex-start;
+  margin-top: 30px;
+}
+
+.picDetails{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+img{
+  max-width: 45%;
+}
+
+iframe{
+  display: none;
+  max-width: 45%;
+}
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
