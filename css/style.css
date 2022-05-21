@@ -17,11 +17,12 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-color: black;
+  font-family: 'Noto Sans', sans-serif;
 }
 
 main{
-  padding: 20px 40px;
-  font-family: 'Noto Sans', sans-serif;
+  padding: 20px 40px; 
+  margin-bottom: 150px;
 }
 
 h1{
@@ -65,6 +66,18 @@ img{
 iframe{
   display: none;
   max-width: 45%;
+}
+
+footer{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
 }
 
 
