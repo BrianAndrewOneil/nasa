@@ -8,6 +8,7 @@ A fun POD web app with NASA API integration built for the Western Mass StarGazer
 ## How It's Made
 
 **Tech used:** HTML, CSS, & JavaScript
+
 I built this web app to be easy-to-use, fun, and delightful for users. It features an integration with NASA's API for their "pic of the day" and includes a detailed description of the celestial element displayed on the screen. Users can review the current day's pic as well as any past day's pic that they choose through a simple date-picker application.
 
 ## Optimizations
