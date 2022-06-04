@@ -80,6 +80,17 @@ footer{
   background-color: black;
 }
 
+@media all and (max-width: 700px) {
+  .nasaPic {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+
+  img{
+    max-width: 95%;
+  }
+}
+
 
 
 /******************************************
