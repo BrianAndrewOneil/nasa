@@ -12,7 +12,7 @@ An educational and inspirational POD web app with NASA API integration built for
 I built this web app to be easy to use, fun, and delightful for users. It features an integration with NASA's API for their "pic of the day" and includes a detailed description of the celestial element displayed on the screen. Users can review the current day's pic as well as any past day's pic that they choose through a simple date-picker application.
 
 ## Optimizations
-Future enhancements for this app will include better testing for optimized responsive design for devices with different screen sizes. Currently the app is optimized for desktop display and smartphone display.
+Future enhancements for this app will include continued testing for optimized responsive design for devices with different screen sizes. Currently the app is optimized for desktop display and smartphone display.
 
 ## Lessons Learned
 Integrating an API into user interaction with the app.
