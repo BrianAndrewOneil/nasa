@@ -1,7 +1,7 @@
 # Western Mass StarGazers Society Web App featuring POD from NASA's api
 A fun POD web app with NASA API integration built for the Western Mass StarGazers Society 
 
-**Link to project:** https://brianandrewoneil.github.io/nasa/
+**Link to project:** https://western-ma-stargazers.netlify.app/
 
 <img alt="image of web app" src="https://brianoneil.netlify.app/images/nasa.png" width=50%>
 
