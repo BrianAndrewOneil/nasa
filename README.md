@@ -3,7 +3,7 @@ A fun POD web app with NASA API integration built for the Western Mass StarGazer
 
 **Link to project:** https://brianandrewoneil.github.io/nasa/
 
-![alt tag](https://brianoneil.netlify.app/images/nasa.png)
+<img alt="image of web app" src="https://brianoneil.netlify.app/images/nasa.png" width=50%>
 
 ## How It's Made
 
