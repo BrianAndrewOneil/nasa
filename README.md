@@ -3,7 +3,7 @@ An educational and inspirational POD web app with NASA API integration built for
 
 **Link to project:** https://western-ma-stargazers.netlify.app/
 
-<img alt="image of web app" src="https://brianoneil.netlify.app/images/nasa.png" width=50%>
+<img alt="image of web app" src="https://brianoneil.netlify.app/assets/img/portfolio/nasa.png" width=50%>
 
 ## How It's Made
 
