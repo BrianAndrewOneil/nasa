@@ -21,5 +21,6 @@ function getNasaPic(){
     })
     .catch(err => {
         console.log(`error ${err}`)  
+        document.querySelector('#welcome').replaceWith("We're sorry, the NASA API is down. Please come back and try again soon.")      // document.querySelector('#welcome')
     });
 }
