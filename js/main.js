@@ -14,13 +14,13 @@ function getNasaPic(){
             : 
             media = `<img src="${data.hdurl}" alt="${data.title}">`
         document.querySelector('#POD').innerHTML = `
-            <section class="nasaPic">
+        <section class="nasaPic">
                 ${media}
-				<section class="picDetails">
-					<h2 id="title">${data.title}</h2>
-					<p id="description">${data.explanation}</p>
-				</section>
-			</section>
+		<section class="picDetails">
+			<h2 id="title">${data.title}</h2>
+			<p id="description">${data.explanation}</p>
+		</section>
+	</section>
         `
     })
     .catch(err => {
